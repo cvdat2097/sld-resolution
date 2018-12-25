@@ -1,0 +1,18 @@
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\bin\Debug\SLDResolutionForDefiniteLogic.exe
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\bin\Debug\SLDResolutionForDefiniteLogic.pdb
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.csprojResolveAssemblyReference.cache
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Form1.resources
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Properties.Resources.resources
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.csproj.GenerateResource.Cache
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.exe
+D:\Programing\VS Projects\1512095.SLDResolutionForDefiniteLogic\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.pdb
+C:\Users\Cao V. Dat\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.exe
+C:\Users\Cao V. Dat\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.pdb
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.exe
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.pdb
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\bin\Debug\SLDResolutionForDefiniteLogic.exe
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\bin\Debug\SLDResolutionForDefiniteLogic.pdb
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.csprojResolveAssemblyReference.cache
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Form1.resources
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Properties.Resources.resources
+C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.csproj.GenerateResource.Cache
