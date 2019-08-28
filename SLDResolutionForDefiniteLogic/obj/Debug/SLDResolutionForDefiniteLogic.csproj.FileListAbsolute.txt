@@ -16,3 +16,11 @@ C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\
 C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Form1.resources
 C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Properties.Resources.resources
 C:\Users\LAP10719-local\Desktop\1512095\Bai C - Hop giai SLD cho logic han dinh\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.csproj.GenerateResource.Cache
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.exe
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.pdb
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\bin\Debug\SLDResolutionForDefiniteLogic.exe
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\bin\Debug\SLDResolutionForDefiniteLogic.pdb
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.csprojResolveAssemblyReference.cache
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Form1.resources
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.Properties.Resources.resources
+C:\Users\Adminstrator\Desktop\sld-resolution\SLDResolutionForDefiniteLogic\obj\Debug\SLDResolutionForDefiniteLogic.csproj.GenerateResource.Cache
